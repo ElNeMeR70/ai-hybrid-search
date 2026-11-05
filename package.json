@@ -1,0 +1,22 @@
+{
+  "name": "@elnamer70/hybrid-search",
+  "version": "1.0.0",
+  "description": "Reciprocal rank fusion (RRF) combining dense and BM25 sparse search",
+  "main": "main.py",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElNeMeR70/ai-hybrid-search.git"
+  },
+  "keywords": [
+    "ai",
+    "machine-learning",
+    "deep-learning",
+    "llm",
+    "nlp"
+  ],
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}

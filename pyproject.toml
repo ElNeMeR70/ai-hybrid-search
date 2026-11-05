@@ -1,0 +1,4 @@
+[project]
+name = "ai-hybrid-search"
+version = "0.1.0"
+description = "Fuses sparse keyword scores (BM25) with dense vector rankings using Reciprocal Rank Fusion."
